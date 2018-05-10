@@ -1,0 +1,39 @@
+{
+	"color_scheme": "Packages/Theme - Glacier/glacier.tmTheme",
+	"default_line_ending": "unix",
+	"folder_exclude_patterns":
+	[
+		"__pycache__",
+		".git"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"GitGutter",
+		"Todo",
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"U:\\jcworkma\\tests_gsim\\gsimtools*",
+		"U:\\jcworkma\\tests_gsim\\tgprofiler*",
+		"U:\\jcworkma\\tests_gsim\\alps*",
+		"U:\\jcworkma\\tests_gsim\\keiko*"
+	],
+	"pep8_ignore":
+	[
+		"E501",
+		"E266",
+		"E402",
+		"E309",
+		"W191",
+		"E128",
+		"E265"
+	],
+	"theme": "Glacier.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
